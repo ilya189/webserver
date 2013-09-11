@@ -1,0 +1,31 @@
+ErrorDocument 401 /
+ErrorDocument 403 /
+ErrorDocument 404 /
+ErrorDocument 500 /
+
+#RemoveHandler .html .htm 
+#AddType application/x-httpd-php .php .htm .html .phtml
+#AddType php-cgi .php .htm .html .phtml 
+
+
+RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^mysite.com
+#RewriteRule ^(.*)$ http://www.mysite.com/$1 [R=permanent,L] 
+
+RewriteRule ^rss.xml index.php?event=rss
+RewriteRule ^links.html index.php?event=links
+RewriteRule ^contact.html index.php?event=contact
+RewriteRule ^sitemap.html index.php?event=sitemap
+RewriteRule ^guestbook.html index.php?event=guest
+RewriteRule ^article.html index.php?event=article
+RewriteRule ^statistics.html index.php?event=statistic
+RewriteRule ^search_history.html index.php?event=searchhistory
+RewriteRule ^page_999(.+)\.html$ index.php?event=all&page=$1
+RewriteRule ^page_(.+)\.html$ index.php?event=page&poisk=$1
+RewriteRule ^site_(.+)\.html$ index.php?event=site&poisk=$1
+RewriteRule ^(.+)-(.+)\.html$ index.php?event=cat&kat=$1&page=$2
+RewriteRule ^full_(.+)_(.+)\.html$ index.php?event=word&poisk=$1&page=$2
+
+
+
+

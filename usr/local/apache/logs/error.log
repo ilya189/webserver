@@ -1,0 +1,35 @@
+[Thu May 28 20:33:58 2009] [warn] Init: SSL server IP/port conflict: test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:153) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:33:58 2009] [warn] Init: SSL server IP/port conflict: subdomain.test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:130) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:33:58 2009] [warn] Init: SSL server IP/port conflict: subdomain.test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:107) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:33:58 2009] [warn] Init: SSL server IP/port conflict: subdomain.localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:84) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:33:58 2009] [warn] Init: SSL server IP/port conflict: localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:38) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:33:58 2009] [warn] Init: You should not use name-based virtual hosts in conjunction with SSL!!
+[Thu May 28 20:34:02 2009] [warn] Init: SSL server IP/port conflict: test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:153) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:02 2009] [warn] Init: SSL server IP/port conflict: subdomain.test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:130) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:02 2009] [warn] Init: SSL server IP/port conflict: subdomain.test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:107) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:02 2009] [warn] Init: SSL server IP/port conflict: subdomain.localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:84) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:02 2009] [warn] Init: SSL server IP/port conflict: localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:38) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:02 2009] [warn] Init: You should not use name-based virtual hosts in conjunction with SSL!!
+[Thu May 28 20:34:02 2009] [notice] Apache/2.2.4 (Win32) mod_ssl/2.2.4 OpenSSL/0.9.8d PHP/5.2.6 configured -- resuming normal operations
+[Thu May 28 20:34:02 2009] [notice] Server built: Jan  9 2007 23:17:20
+[Thu May 28 20:34:02 2009] [notice] Parent: Created child process 3496
+[Thu May 28 20:34:03 2009] [notice] Disabled use of AcceptEx() WinSock2 API
+[Thu May 28 20:34:07 2009] [warn] Init: SSL server IP/port conflict: test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:153) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:07 2009] [warn] Init: SSL server IP/port conflict: subdomain.test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:130) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:07 2009] [warn] Init: SSL server IP/port conflict: subdomain.test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:107) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:07 2009] [warn] Init: SSL server IP/port conflict: subdomain.localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:84) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:07 2009] [warn] Init: SSL server IP/port conflict: localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:38) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:07 2009] [warn] Init: You should not use name-based virtual hosts in conjunction with SSL!!
+[Thu May 28 20:34:10 2009] [warn] Init: SSL server IP/port conflict: test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:153) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:10 2009] [warn] Init: SSL server IP/port conflict: subdomain.test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:130) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:10 2009] [warn] Init: SSL server IP/port conflict: subdomain.test1.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:107) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:10 2009] [warn] Init: SSL server IP/port conflict: subdomain.localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:84) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:10 2009] [warn] Init: SSL server IP/port conflict: localhost:443 (Z:/usr/local/apache/conf/vhosts.conf:38) vs. test2.ru:443 (Z:/usr/local/apache/conf/vhosts.conf:176)
+[Thu May 28 20:34:10 2009] [warn] Init: You should not use name-based virtual hosts in conjunction with SSL!!
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Child process is running
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Acquired the start mutex.
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Starting 250 worker threads.
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Listening on port 443.
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Listening on port 8648.
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Listening on port 443.
+[Thu May 28 20:34:11 2009] [notice] Child 3496: Listening on port 80.

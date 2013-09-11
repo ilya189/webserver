@@ -1,0 +1,127 @@
+h1 {font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; margin:5px 0;padding:0; color: #18218d;}
+h2 {font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; margin:5px 0;padding:0; color: #18218d;}
+h3 {font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; margin:5px 0;padding:0; color: #808080;}
+h4 {font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; margin:5px 0;padding:0; color: #18218d;}
+h5 {font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; margin:5px 0;padding:0; color: #18218d;}
+h6 {font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; margin:5px 0;padding:0; color: #18218d;}
+.nav {
+   list-style-type:none;
+   margin:21px 7px 0 0;
+}
+
+body {
+   background:url(../images/bg.gif) #FFFFFF;
+ 
+}
+
+.nav a {
+   display:block;
+   position:relative;
+   background: #274F00;
+   border:silver 0px solid;
+   font:11px verdana,arial,helvetica,sans-serif;
+   margin:0px 0;
+   padding:4px 2px 4px 6px;
+   text-decoration:none;
+text-align:left;
+font:bold
+   color: #577F30;
+}
+.nav a:link {
+   background:  #274F00;
+   color: #577F30;
+}
+.nav a:visited {
+   background:  #274F00;
+   color: #CCCCCC;
+}
+
+.nav a:hover {
+   background:  #577F30;
+   color: #FFFFFF;
+}
+
+
+
+
+.navr {
+   background: #EF6020;
+   list-style-type:none;
+   margin:21px 7px 0 0;
+}
+.navr .nolink {
+   background: #dae2f4;
+   border:silver 0px solid;
+   font:10px verdana,arial,helvetica,sans-serif;
+   margin:7px 5px 2px 10px;
+   padding:4px 2px 4px 6px;
+}
+.navr a {
+   display:block;
+   position:relative;
+   background: #dae2f4;
+   border:#eeeeee 0px solid;
+   font:11px verdana,arial,helvetica,sans-serif;
+   margin:0px 0;
+   padding:4px 2px 4px 6px;
+   text-decoration:none;
+text-align:left;
+font:bold
+}
+.navr a:link {
+   background:  #FA7030;
+   color: #FFFFFF;
+}
+.navr a:visited {
+   background: #FA8040; 
+   color:#FFFFFF;
+}
+.navr a:hover {
+   background: #EF6020;
+   color:#FFFFFF;
+   border:#eeeeee 0px solid;
+}
+
+
+.panel {
+	BORDER-RIGHT: silver 1px dotted; PADDING-RIGHT: 2px; BORDER-TOP: silver 1px dotted; PADDING-LEFT: 9px; PADDING-BOTTOM: 2px; BORDER-LEFT: silver 1px dotted; COLOR: #4F2700; PADDING-TOP: 2px; BORDER-BOTTOM: silver 1px dotted; BACKGROUND-COLOR: #f7f6f4;
+font:bold ;font-size:12px; font-family: Verdana, Sans-serif, Arial; 
+}
+
+
+.ramabot {
+	 background: #AAAAAA;
+}  
+
+
+TD {
+	FONT-FAMILY: Arial,Sans-serif; FONT-SIZE: 10pt
+}
+BODY {
+	FONT-FAMILY: Arial,Sans-serif; FONT-SIZE: 12px
+}
+.top {
+	FONT-FAMILY: Verdana, Arial, Sans-serif; FONT-SIZE: 10px ; TEXT-DECORATION: none
+}
+.nav {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.navhigh {
+	COLOR: #ffaf49; TEXT-DECORATION: none
+}
+.menu {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Sans-serif; FONT-SIZE: 11px
+}
+
+A:link {
+	FONT-WEIGHT: bold; COLOR: #DF6020; TEXT-DECORATION: none; 
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #EA8040; TEXT-DECORATION: none;
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #EA7030; TEXT-DECORATION: none;
+}
+A:active {
+	FONT-WEIGHT: bold; COLOR: #EA7030; TEXT-DECORATION: none;
+}

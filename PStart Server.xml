@@ -1,0 +1,220 @@
+<start>
+	<files>
+		<file name="&#x0417;&#x0430;&#x043F;&#x0443;&#x0441;&#x0442;&#x0438;&#x0442;&#x044C; (&#x0430;&#x0432;&#x0442;&#x043E;&#x0437;&#x0430;&#x043F;&#x0443;&#x0441;&#x043A;) Denwer">
+			<path>denwer\Run.exe</path>
+			<description>&#x0417;&#x0430;&#x043F;&#x0443;&#x0441;&#x043A; Portable Denwer2 (php5 + PEAR)</description>
+			<icon>denwer\utils\run.ico</icon>
+			<autorun>onstartup</autorun>
+			<runcount>110</runcount>
+			<rundate>2009/05/28 20:29:17</rundate>
+		</file>
+		<file name="&#x0412;&#x044B;&#x043A;&#x043B;&#x044E;&#x0447;&#x0438;&#x0442;&#x044C; Denwer">
+			<path>denwer\Stop.exe</path>
+			<description>&#x0412;&#x044B;&#x043A;&#x043B;&#x044E;&#x0447;&#x0435;&#x043D;&#x0438;&#x0435; Denwer &#x0438; &#x043F;&#x0430;&#x043D;&#x0435;&#x043B;&#x0438; &#x0443;&#x043F;&#x0440;&#x0430;&#x0432;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F;</description>
+			<icon>denwer\utils\stop.ico</icon>
+			<autorun>onexit</autorun>
+			<runcount>8</runcount>
+			<rundate>2008/06/22 11:51:14</rundate>
+			<executionaction>3</executionaction>
+		</file>
+		<file name="&#x041F;&#x0435;&#x0440;&#x0435;&#x0437;&#x0430;&#x0433;&#x0440;&#x0443;&#x0437;&#x0438;&#x0442;&#x044C; Denwer">
+			<path>denwer\Restart.exe</path>
+			<description>&#x041F;&#x0435;&#x0440;&#x0435;&#x0437;&#x0430;&#x0433;&#x0440;&#x0443;&#x0437;&#x043A;&#x0430; &#x0438; &#x043E;&#x0431;&#x043D;&#x043E;&#x0432;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435; Denwer</description>
+			<icon>denwer\utils\restart.ico</icon>
+			<runcount>33</runcount>
+			<rundate>2009/05/28 20:33:44</rundate>
+		</file>
+		<file name="README!!!">
+			<path>README.txt</path>
+			<description>&#x041E;&#x043F;&#x0438;&#x0441;&#x0430;&#x043D;&#x0438;&#x0435; &#x0443;&#x0441;&#x0442;&#x0430;&#x043D;&#x043E;&#x0432;&#x043B;&#x0435;&#x043D;&#x043D;&#x044B;&#x0445; &#x0440;&#x0430;&#x0441;&#x0448;&#x0438;&#x0440;&#x0435;&#x043D;&#x0438;&#x0439;</description>
+			<icon>denwer\utils\Net.ico</icon>
+			<runcount>2</runcount>
+			<rundate>2009/05/28 20:29:39</rundate>
+			<website>http://www.rascaz.com/</website>
+		</file>
+		<file name="&#x0422;&#x0435;&#x0441;&#x0442; Denwer + &#x0421;&#x043F;&#x0440;&#x0430;&#x0432;&#x043A;&#x0430;">
+			<path>localhost.url</path>
+			<description>&#x041F;&#x0440;&#x043E;&#x0432;&#x0435;&#x0440;&#x043A;&#x0430; &#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x044B; Denwer</description>
+			<icon>home\localhost\www\favicon.ico</icon>
+			<runcount>9</runcount>
+			<rundate>2009/05/28 20:30:47</rundate>
+			<website>http://denwer.ru/</website>
+		</file>
+		<file name="&#x0422;&#x0435;&#x0441;&#x0442; Zend Optimizer">
+			<path>test2.ru.url</path>
+			<description>CMS Rumba 2.4 &#x0437;&#x0430;&#x043A;&#x043E;&#x0434;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x043D;&#x0430;&#x044F; Zend Optimizer</description>
+			<icon>home\test2.ru\www\favicon.ico</icon>
+			<runcount>1</runcount>
+			<rundate>2009/05/28 20:31:07</rundate>
+			<website>http://rumba.net.ru</website>
+		</file>
+		<file name="C&#x043A;&#x0440;&#x0438;&#x043F;&#x0442; &#x0441;&#x0430;&#x0439;&#x0442;&#x0430; &#x041C;&#x043E;&#x0441;&#x041C;&#x0430;&#x0440;&#x043A;&#x0430;">
+			<path>test1.ru.url</path>
+			<description>&#x0420;&#x0438;&#x043F; &#x0441;&#x0430;&#x0439;&#x0442;&#x0430; http://mosmarka.ru/</description>
+			<icon>home\test1.ru\www\favicon.ico</icon>
+			<runcount>2</runcount>
+			<rundate>2009/05/28 20:32:03</rundate>
+			<website>http://mosmarka.ru/</website>
+		</file>
+	</files>
+	<notes>
+		<note name="&#x041E; &#x043F;&#x0430;&#x043A;&#x0435;&#x0442;&#x0435;">
+			<text>&#x0412;&#x041D;&#x0418;&#x041C;&#x0410;&#x041D;&#x0418;&#x0415;!
+&#x0414;&#x0430;&#x043D;&#x043D;&#x044B;&#x0439; &#x043F;&#x0430;&#x043A;&#x0435;&#x0442; &#x0432;&#x043C;&#x0435;&#x0441;&#x0442;&#x043E; PHP 4 &#x0432;&#x043A;&#x043B;&#x044E;&#x0447;&#x0430;&#x0435;&#x0442; &#x0432; &#x0441;&#x0435;&#x0431;&#x044F; &#x0432;&#x0435;&#x0440;&#x0441;&#x0438;&#x044E; PHP 5.2.6 (01 May 2008)
++ PEAR + Zend Optimizer 3.3.0 + IonCube loader. &#x0412; &#x0434;&#x0430;&#x043D;&#x043D;&#x043E;&#x043C; &#x043F;&#x0430;&#x043A;&#x0435;&#x0442;&#x0435;, IonCube 
+loader &#x0437;&#x0430;&#x043A;&#x043E;&#x043C;&#x043C;&#x0435;&#x043D;&#x0442;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D; &#x0432; php.ini &#x0444;&#x0430;&#x0439;&#x043B;&#x0435; &#x0438;&#x0437;-&#x0437;&#x0430; &#x043A;&#x043E;&#x043D;&#x0444;&#x043B;&#x0438;&#x043A;&#x0442;&#x0430; &#x0441; Zend Optimizer, &#x043F;&#x0440;&#x0438;
+&#x0438;&#x0441;&#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x0438; &#x043E;&#x0434;&#x043D;&#x043E;&#x0433;&#x043E; &#x0438;&#x0437; &#x044D;&#x0442;&#x0438;&#x0445; &#x0440;&#x0430;&#x0441;&#x0448;&#x0438;&#x0440;&#x0435;&#x043D;&#x0438;&#x0439; &#x043D;&#x0435;&#x043E;&#x0431;&#x0445;&#x043E;&#x0434;&#x0438;&#x043C;&#x043E; &#x043E;&#x0442;&#x043A;&#x043B;&#x044E;&#x0447;&#x0438;&#x0442;&#x044C; (&#x0437;&#x0430;&#x043A;&#x043E;&#x043C;&#x043C;&#x0435;&#x043D;&#x0442;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x0442;&#x044C;
+&#x0432; php.ini &#x0444;&#x0430;&#x0439;&#x043B;&#x0435;) &#x0434;&#x0440;&#x0443;&#x0433;&#x043E;&#x0435;.
+=======================================
+
+&#x041D;&#x0410;&#x0417;&#x041D;&#x0410;&#x0427;&#x0415;&#x041D;&#x0418;&#x0415;
+&#x041F;&#x0440;&#x0435;&#x0434;&#x043B;&#x0430;&#x0433;&#x0430;&#x0435;&#x043C;&#x044B;&#x0439;  &#x043A;&#x043E;&#x043C;&#x043F;&#x043B;&#x0435;&#x043A;&#x0441;  &#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C; &#x043F;&#x043E;&#x0437;&#x0432;&#x043E;&#x043B;&#x044F;&#x0435;&#x0442; &#x0437;&#x0430;&#x043F;&#x0443;&#x0441;&#x0442;&#x0438;&#x0442;&#x044C; &#x043F;&#x043E;&#x043B;&#x043D;&#x043E;&#x0446;&#x0435;&#x043D;&#x043D;&#x044B;&#x0439; &#x0432;&#x0435;&#x0431;-&#x0441;&#x0435;&#x0440;&#x0432;&#x0435;&#x0440;
+Apache  &#x0441;  &#x043F;&#x043E;&#x0434;&#x0434;&#x0435;&#x0440;&#x0436;&#x043A;&#x043E;&#x0439;  PHP,  Perl  &#x0438; &#x0441;&#x0435;&#x0440;&#x0432;&#x0435;&#x0440; MySQL &#x043D;&#x0430; &#x043C;&#x0430;&#x0448;&#x0438;&#x043D;&#x0435;, &#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x0430;&#x044E;&#x0449;&#x0435;&#x0439; &#x043F;&#x043E;&#x0434;
+&#x0443;&#x043F;&#x0440;&#x0430;&#x0432;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435;&#x043C;  MS  Windows 95/98/Me/NT/2000/XP. &#x041A;&#x0430;&#x043A; &#x043F;&#x0440;&#x0430;&#x0432;&#x0438;&#x043B;&#x043E;, &#x043F;&#x0440;&#x0438; &#x0443;&#x0441;&#x0442;&#x0430;&#x043D;&#x043E;&#x0432;&#x043A;&#x0435; &#x043D;&#x0435;
+&#x0442;&#x0440;&#x0435;&#x0431;&#x0443;&#x0435;&#x0442;&#x0441;&#x044F;   &#x043D;&#x0438;&#x043A;&#x0430;&#x043A;&#x043E;&#x0439;   &#x043D;&#x0430;&#x0441;&#x0442;&#x0440;&#x043E;&#x0439;&#x043A;&#x0438;,   &#x043A;&#x043E;&#x043C;&#x043F;&#x043B;&#x0435;&#x043A;&#x0441;   &#x043C;&#x043E;&#x0436;&#x0435;&#x0442;   &#x0438;&#x0441;&#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x043E;&#x0432;&#x0430;&#x0442;&#x044C;&#x0441;&#x044F;   &#x0434;&#x0430;&#x0436;&#x0435;
+&#x043D;&#x0435;&#x043F;&#x043E;&#x0434;&#x0433;&#x043E;&#x0442;&#x043E;&#x0432;&#x043B;&#x0435;&#x043D;&#x043D;&#x044B;&#x043C;&#x0438;  &#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x043E;&#x0432;&#x0430;&#x0442;&#x0435;&#x043B;&#x044F;&#x043C;&#x0438;.  &#x0422;&#x0435;&#x043C; &#x043D;&#x0435; &#x043C;&#x0435;&#x043D;&#x0435;&#x0435;, &#x043E;&#x043D; &#x043C;&#x043E;&#x0436;&#x0435;&#x0442; &#x043D;&#x0430;&#x0439;&#x0442;&#x0438; &#x043F;&#x0440;&#x0438;&#x043C;&#x0435;&#x043D;&#x0435;&#x043D;&#x0438;&#x0435;
+&#x043D;&#x0435;  &#x0442;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E;  &#x0434;&#x043B;&#x044F;  &#x043E;&#x0431;&#x0443;&#x0447;&#x0435;&#x043D;&#x0438;&#x044F;  &#x0430;&#x0437;&#x0430;&#x043C;  &#x0432;&#x0435;&#x0431;-&#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x044F;,  &#x043D;&#x043E;  &#x0438;  &#x0434;&#x043B;&#x044F;  &#x043E;&#x0442;&#x043B;&#x0430;&#x0434;&#x043A;&#x0438;
+&#x0438;&#x043D;&#x0442;&#x0435;&#x0440;&#x0430;&#x043A;&#x0442;&#x0438;&#x0432;&#x043D;&#x044B;&#x0445;  &#x0441;&#x0430;&#x0439;&#x0442;&#x043E;&#x0432;, &#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C;, &#x0438;&#x0441;&#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x0443;&#x044E;&#x0449;&#x0438;&#x0445; &#x0431;&#x0430;&#x0437;&#x0443; &#x0434;&#x0430;&#x043D;&#x043D;&#x044B;&#x0445; MySQL, &#x043D;&#x0430;&#x043F;&#x0438;&#x0441;&#x0430;&#x043D;&#x043D;&#x044B;&#x0445;
+&#x043D;&#x0430; &#x044F;&#x0437;&#x044B;&#x043A;&#x0430;&#x0445; PHP &#x0438; Perl.</text>
+			<style>2</style>
+		</note>
+	</notes>
+	<colors>
+		<color name="0">
+			<value>A0A0FFh</value>
+		</color>
+		<color name="1">
+			<value>A0C0FFh</value>
+		</color>
+		<color name="2">
+			<value>A0FFFFh</value>
+		</color>
+		<color name="3">
+			<value>A0FFA0h</value>
+		</color>
+		<color name="4">
+			<value>FFA0A0h</value>
+		</color>
+	</colors>
+	<configurationfile>
+		<backupmode>pbmTemporary</backupmode>
+	</configurationfile>
+	<execution>
+		<count>107</count>
+		<overalltime>672:46:25.495</overalltime>
+	</execution>
+	<general>
+		<executionaction>0</executionaction>
+		<language>auto</language>
+		<singleclick>False</singleclick>
+	</general>
+	<info>
+		<visible>True</visible>
+	</info>
+	<menu>
+		<hotkeysvisible>True</hotkeysvisible>
+	</menu>
+	<mouse>
+		<sensors>
+			<bottom>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</bottom>
+			<bottomleft>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</bottomleft>
+			<bottomright>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</bottomright>
+			<cornersize>20</cornersize>
+			<left>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</left>
+			<monitor>1</monitor>
+			<right>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</right>
+			<top>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</top>
+			<topleft>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</topleft>
+			<topright>
+				<leftaction>0</leftaction>
+				<rightaction>0</rightaction>
+			</topright>
+		</sensors>
+	</mouse>
+	<note>
+		<alarm>
+			<notify>
+				<autoclose>False</autoclose>
+				<duration>10</duration>
+				<sound></sound>
+			</notify>
+			<recenttime>2007/03/20 15:16:49</recenttime>
+		</alarm>
+		<defaultcolor>A0FFFFh</defaultcolor>
+		<style>1</style>
+		<visible>True</visible>
+		<wordbreak>1</wordbreak>
+	</note>
+	<panel>
+		<closemode>0</closemode>
+		<hotkey>False</hotkey>
+		<hotkeyclose>False</hotkeyclose>
+		<hotkeycode>15</hotkeycode>
+		<hotkeymodifier>7</hotkeymodifier>
+		<pageindex>0</pageindex>
+		<position>0</position>
+		<showonstartup>True</showonstartup>
+		<staticsize>False</staticsize>
+		<title>Denwer2 + php5 + PEAR + ZendOptimizer</title>
+	</panel>
+	<search>
+		<allusersstartmenu>True</allusersstartmenu>
+		<colorize>True</colorize>
+		<colors>
+			<allusersstartmenu>0080FFh</allusersstartmenu>
+			<currentuserstartmenu>40A000h</currentuserstartmenu>
+			<pstart>FF4040h</pstart>
+		</colors>
+		<currentuserstartmenu>True</currentuserstartmenu>
+		<pstart>True</pstart>
+		<sort>0</sort>
+	</search>
+	<style>
+		<backgroundimage></backgroundimage>
+		<captioncolor>000000h</captioncolor>
+		<iconsize>0</iconsize>
+		<iteminfomode>7</iteminfomode>
+	</style>
+	<tray>
+		<doubleclick>1</doubleclick>
+		<hotkey>False</hotkey>
+		<hotkeycode>12</hotkeycode>
+		<hotkeymodifier>7</hotkeymodifier>
+		<iconimage>1</iconimage>
+		<iconvisibility>0</iconvisibility>
+		<leftclick>2</leftclick>
+	</tray>
+	<window>
+		<main>
+			<position>
+				<x>490</x>
+				<y>130</y>
+			</position>
+			<size>
+				<x>329</x>
+				<y>340</y>
+			</size>
+		</main>
+	</window>
+</start>
